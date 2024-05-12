@@ -1,0 +1,139 @@
+Feasible Study:
+•	Technical Feasibility: This platform has the availability of suitable software development tools, hosting platforms, and integration capabilities with other systems or services.
+•	Economic Feasibility: This platform is financially viable and sustainable. This includes the costs associated with development, maintenance, marketing, and operation, as well as potential revenue streams such as service fees, advertising, or premium features.
+•	Market Feasibility: This platform has an accepted and good marketing challenge and it is feasible in the market site. 
+•	Legal Feasibility: This platform is legal as it verifies data privacy regulations, intellectual property rights, contracts with vendors or clients, and any specific legal requirements for operating a business in the wedding planning industry. 
+•	Operational Feasibility: The wedding planner platyform can be effectively implemented and integrated into existing processes and systems. This includes considerations such as staffing requirements, training needs, workflow design, and scalability to accommodate growth. Thus it is verified. 
+•	Scheduling Feasibility: Scheduling the wedding planner project can be completed within the desired timeframe and meets any deadlines or milestones.  
+
+Table of contents:
+I.	Introduction:
+1.	Product scope
+2.	Product value
+3.	Intended audience
+4.	Intended use
+5.	General description
+II.	Functional Requirements:
+III.	External Interface Requirements:
+1.	User Interface Requirements
+2.	Hardware Interface Requirements
+3.	Software Interface Requirements
+4.	Communication Interface Requirements    
+IV.	Non-Functional Requirements:
+1.	Performance and Capacity
+2.	Reliability
+3.	Usability
+4.	Security
+5.	Scalability
+6.	Interoperability
+V.	Some Definitions
+ 
+
+I. Introduction:
+Weddings are joyous occasions, but planning them can be overwhelming. Enter wedding planner software, the digital solution designed to streamline the entire wedding planning process from start to finish. This innovative technology offers a comprehensive suite of tools and features to assist couples, wedding planners, and vendors in organizing every aspect of the big day. From managing guest lists and budgets to coordinating with vendors and creating seating arrangements, wedding planner software serves as a centralized hub for all wedding-related tasks. With intuitive interfaces and customizable features, these platforms empower users to stay organized, track progress, and ensure that no detail is overlooked.
+
+1.1-product scope:
+Allow users to create accounts and personalize their profiles with details such as wedding date, location, budget, and preferences. Enable users to manage guest lists, including sending invitations, tracking RSVPs, and managing meal preferences and seating arrangements. Provide tools for setting and managing the wedding budget, including tracking expenses, creating budget categories, and receiving alerts for overspending. Allow users to customize the software to suit their specific wedding needs, including themes, color schemes, and branding options. Offer comprehensive customer support, including FAQs, tutorials, and dedicated support channels for addressing user inquiries and issues.
+1.2-Product value:
+By centralizing all wedding-related tasks and information in one platform, the software saves users time and effort that would otherwise be spent on manual coordination and communication. The software enables users to stay organized and on track with wedding planning tasks, timelines, and budgets, reducing the risk of oversights or missed deadlines. With budget tracking and management tools, users can effectively manage their wedding expenses, make informed decisions, and avoid overspending. Comprehensive customer support and help resources are available to assist users with any questions, issues, or challenges they may encounter during the wedding planning process, ensuring a positive user experience.
+ 
+1.3-Intended Audience:
+Engaged couples who are planning their wedding ceremonies and receptions. Professional wedding planners who offer their services to couples to assist with planning and coordinating various aspects of weddings. Businesses and professionals that offer wedding-related services such as venues, caterers, photographers, florists, musicians, and transportation providers. They use the software to manage bookings, contracts, payments, and communication with clients and partners. Close family members and friends of the couple who are involved in the wedding planning process, such as parents, siblings, and friends. Colleges, universities, and vocational schools that offer courses or programs in wedding planning, event management, hospitality management, or related fields.  
+
+1.4-Intended Use:
+Create and manage guest lists, including sending invitations, Set and manage the wedding budget, Create and manage task lists with deadlines for various wedding-related tasks, Create and manage online registries for gifts, track gifts received, and send thank-you notes to gift givers. Communicate and collaborate with wedding planners, vendors, and guests through messaging, email templates, group chats, and file sharing.
+These intended uses collectively contribute to the overall goal of simplifying and enhancing the wedding planning experience for users, enabling them to plan and execute their dream weddings efficiently and effectively.
+
+1.5-General Description:
+A wedding planner software is a comprehensive digital tool designed to streamline and simplify the wedding planning process for couples, wedding planners, vendors, and other stakeholders involved in organizing weddings. This software offers a wide range of features and functionalities to assist users in managing various aspects of wedding preparation, coordination, and execution. From guest list management and budget tracking to vendor communication and task scheduling, the software serves as a centralized platform for organizing all wedding-related activities. With intuitive interfaces, customizable options, and mobile accessibility, wedding planner software aims to provide users with a seamless and efficient wedding planning experience, ultimately helping them turn their wedding dreams into reality.
+ 
+
+II. Functional Requirements:
+1.	User Registration and Authentication: Allow users to create accounts, log in securely, and manage their profiles.
+2.	Guest Management:
+•	Create and manage guest lists.
+•	Send invitations via email or traditional mail.
+•	Track RSVPs and manage guest responses.
+•	Manage meal preferences and dietary restrictions.
+•	Generate seating arrangements and floor plans.
+3.	 Budget Management:
+•	Set and manage the wedding budget.
+•	Track expenses and payments.
+•	Categorize expenses (e.g., venue, catering, attire).
+•	Receive alerts for overspending or budget deviations.
+4.	Vendor Management:
+•	Search for and select vendors (e.g., venues, caterers, photographers).
+•	Manage contracts and agreements.
+•	Track vendor payments and deadlines.
+•	Communicate with vendors securely.
+5.	Task Management:
+•	Create and manage task lists with deadlines.
+•	Assign tasks to specific users or roles.
+•	Set reminders and alerts for upcoming tasks.
+•	Track task completion and progress.
+6.	Calendar and Timeline Management:
+•	Create customizable timelines for key milestones.
+•	Sync with personal calendars (e.g., Google Calendar, Outlook).
+•	Receive reminders and notifications for upcoming deadlines.
+7.	Venue and Floorplan Management:
+•	Search for and book wedding venues.
+•	Manage guest capacity and seating arrangements.
+•	Design floor plans for the ceremony and reception.
+8.	Customization and Personalization:
+•	Allow users to customize the software to reflect their preferences and themes.
+•	Provide options for themes, color schemes, and branding.
+
+
+ 
+III. External Interface Requirements:
+1.	User Interface Requirements:
+•	The user interface should be user-friendly, and visually appealing.
+•	Support for multiple device types including desktops, laptops, tablets, and smartphones.
+•	Responsive design to ensure optimal viewing and interaction across various screen sizes.
+•	Customizable themes, color schemes, and layout options to accommodate user preferences.
+•	Clear navigation structure with easy access to all features and functionalities.
+•	Interactive elements such as buttons, dropdown menus, checkboxes, and input fields for user interaction.
+•	Visual feedback (e.g., tooltips, error messages) to guide users and provide feedback on actions.
+2.	Hardware Interface Requirements:
+•	Compatibility with standard hardware components such as processors, memory, and storage devices.
+•	Support for various operating systems including Windows, macOS, Linux, iOS, and Android.
+•	Minimum hardware specifications for optimal performance (e.g., processor speed, RAM, storage space).
+•	Accessibility considerations for users with disabilities, including support for assistive technologies and alternative input devices.
+3.	Software Interface Requirements:
+•	Integration with external services and platforms such as online registries, payment gateways, and calendar applications.
+•	APIs (Application Programming Interfaces) for integrating with third-party services and data sources (e.g., venue booking APIs, vendor management APIs).
+•	Compatibility with popular web browsers (e.g., Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge) and their respective versions.
+•	Compatibility with database management systems (DBMS) for storing and retrieving data efficiently.
+4.	Communication Interface Requirements:
+•	Support for secure communication protocols (e.g., HTTPS) to protect user data during transmission.
+•	Integration with email services for sending invitations, reminders, and notifications to users and guests.
+•	Integration with messaging platforms for real-time communication between users, vendors, and other stakeholders.
+•	Support for file sharing protocols (e.g., FTP, SFTP) for transferring documents and media files securely.
+ 
+IV. Non-Functional Requirements:
+1.	Performance and Capacity:
+•	The software should respond to user interactions promptly.
+•	It should be able to handle a large number of concurrent users.
+•	Load testing should be conducted to ensure the software can handle peak usage periods.
+•	The system should have sufficient capacity to store and process data efficiently.
+2.	Reliability:
+•	The software should be highly reliable, with minimal downtime or service interruptions.
+•	It should be resilient to failures and able to recover gracefully in the event of system errors or crashes.
+•	Regular backups of data should be performed to prevent data loss in case of system failure.
+3.	Usability:
+•	The software should have a user-friendly interface that is easy to navigate and understand.
+•	It should provide clear instructions and guidance to users on how to use different features and functionalities.
+•	The software should support accessibility standards to ensure usability for users with disabilities.
+4.	Security:
+•	The software should implement robust security measures to protect user data and privacy.
+•	It should use encryption to secure data transmission and storage.
+•	Access controls should be in place to restrict unauthorized access to sensitive information.
+•	Regular security audits and vulnerability assessments should be conducted to identify and address potential security risks.
+5.	Scalability:
+•	The software should be able to scale horizontally and vertically to accommodate increasing user load and data volume.
+•	It should support auto-scaling mechanisms to dynamically allocate resources based on demand.
+•	The system architecture should be designed to handle growth without compromising performance or reliability.
+6.	Interoperability:
+•	The software should be compatible with a wide range of devices, operating systems, and web browsers..
+•	The software should adhere to industry standards and best practices to ensure interoperability with other software systems and platforms 
+s
